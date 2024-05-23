@@ -1,7 +1,44 @@
 body{
-    background-color: oklch(64.67% 0.096 106.94);
+    background-color: #f3f1ee;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1{
     color: #cec9c9;
+    text-shadow: 1px 1px 2px black;
+    text-align: center;
 }
+
+a{
+    color: #8d8d8d
+}
+
+a:hover{
+    color: #c92626;
+    outline: 5px solid #c92626;/*contorno */
+}
+
+a:active{
+    outline: 5px solid #6e05e7;/*contorno */
+}
+
+input:focus{
+    border: 5px solid #6e05e7
+}
+
+li:first-child{
+    color:#6e05e7
+}
+
+.primary b{
+    color: #e77e05;
+}
+.secundary b{
+    color: #6e05e7;
+}
+
+.pruebali > li{
+    color: purple;
+    opacity: 80%;
+}
+
