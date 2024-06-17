@@ -1,3 +1,3 @@
 # portafolio-practica
 
-Intentando hacer un portafolio personal basico para aprender html y css
+Intentando hacer mi primer portafolio con HTML y CSS. Solamente de practica 
